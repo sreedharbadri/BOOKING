@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.dineshonjava.sdjpa.SpringBootJpaSpringDataApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 22.284 sec - in com.dineshonjava.sdjpa.SpringBootJpaSpringDataApplicationTests
